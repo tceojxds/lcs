@@ -1,0 +1,8 @@
+POST http://localhost:8080/lcs
+Content-Type: application/json
+
+{"setOfStrings" : [ 
+    {"value" : "chcast"},
+    {"value" :"chromecastic"},
+    {"value" :"broadcaster"}
+]}
